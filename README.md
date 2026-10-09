@@ -4,7 +4,7 @@
 
 ## Overview
 
-This modpack is designed to make Minecraft **lighter, faster, and more efficient than vanilla**, while establishing a clean, reliable foundation for building more extensive modpacks.
+This modpack goal is to to make Minecraft **lighter, faster, and more efficient than vanilla**, while establishing a clean, reliable foundation for building more extensive modpacks.
 
 The primary focus is **optimization, compatibility, and removing unnecessary overhead** without sacrificing essential functionality or visual quality.
 
